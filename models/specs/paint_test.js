@@ -12,4 +12,9 @@ describe('Paint', function() {
         assert.strictEqual(actual, 10);
 
     });
+    // it('should be empty', function() {
+    //     const actual = paint.amountOfPaint;
+    //     assert.strictEqual(actual, False);
+
+    // });
 });
