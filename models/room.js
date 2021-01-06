@@ -3,4 +3,8 @@ const Room = function(area) {
     this.painted = false;
 }
 
+Room.prototype.canBePainted = function(){
+    // function goes here
+}
+
 module.exports = Room;
